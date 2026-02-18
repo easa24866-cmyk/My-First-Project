@@ -2,4 +2,4 @@
 This is my first project
 <br>
 
-Writen by Usman 
+Writen by Usman (Usman Hameed)
